@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'VmaxZeeNativeAds_Example' do
+  pod 'VmaxZeeNativeAds', :path => '../'
+
+  target 'VmaxZeeNativeAds_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
