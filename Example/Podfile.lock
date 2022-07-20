@@ -1,0 +1,23 @@
+PODS:
+  - VMaxAdsSDK (0.0.144)
+  - VmaxZeeNativeAds (0.1.0):
+    - VMaxAdsSDK
+
+DEPENDENCIES:
+  - VmaxZeeNativeAds (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - VMaxAdsSDK
+
+EXTERNAL SOURCES:
+  VmaxZeeNativeAds:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VMaxAdsSDK: 10fb4a6f216858767d3feff84df006953e91b12a
+  VmaxZeeNativeAds: 0f37f1eb049e829c2fbfbc6d886cac3726a197c8
+
+PODFILE CHECKSUM: 489e1cc43e9aacb80959798591e14cb4d90274a5
+
+COCOAPODS: 1.11.3

@@ -1,5 +1,4 @@
 import XCTest
-import VmaxZeeNativeAds
 
 class Tests: XCTestCase {
     
